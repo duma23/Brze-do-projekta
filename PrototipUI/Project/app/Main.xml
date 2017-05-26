@@ -1,0 +1,370 @@
+﻿<project version="2.2" name="Project" ID="715B8A27-F735-464E-9C4A-2AD03CBE26AF">
+  <params>
+    <pageParam version="4.5" minAllowVersion="4.5"/>
+    <projectParam version="2.2" minAllowVersion="2.2" platform="MtWeb" pageSize="(1100,750)" backgroundColor="4294967295" fontSize="0" fontFamily=""/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <modules>
+    <page name="Log in page" ID="2B9D7D6F-E471-4B4C-8DFB-16716D124610" expanded="True" code="8mqa8Oupow" thumbCode="8mqa8Oupow" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Log in page unsuccessful" ID="AE0C3B1B-6F04-4BCA-AC2E-0D6938B5B8D2" expanded="True" code="EG7SL82Ggr" thumbCode="EG7SL82Ggr" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Register page" ID="A8A282C5-9982-4FE9-93C7-3010ABDF6263" expanded="True" code="YnPUQcLbkO" thumbCode="YnPUQcLbkO" isLastOpen="True" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Register page unsuccessful" ID="7EE25F45-3A65-40A6-8CB4-32F2BD65B93A" expanded="False" code="POlHhx2eQM" thumbCode="POlHhx2eQM" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Home" ID="6AF953AA-31DE-465E-8670-34B038B3512F" expanded="True" code="NbbZok9tj5" thumbCode="QSAvXpLldA" status="psWhite">
+      <images>
+        <image key="7CB687B958279D4CF32B1222AF63B7CC.png"/>
+        <image key="13B8343EB76AE0D30871CF70C18CA325.png"/>
+        <image key="9640AB6399CE278649CE9B2D283FB14F.png"/>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Jobs" ID="FC5CE92D-5C7B-4E98-83F5-C152EC2D9936" expanded="True" code="yPeYRG6npN" thumbCode="qCtr5rp4eQ" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Account page" ID="D42FC490-688F-4DF3-9895-37BD0975778C" expanded="True" code="budTtmzXUU" thumbCode="IgUocVpSPq" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Account page success" ID="548BDCCF-B4E0-40F4-831D-6ADFFB67FC71" expanded="True" code="qFodgH8RjZ" thumbCode="mkcIqaIi95" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Account page unsuccess" ID="BD59E79F-F17E-4454-918D-EE33795F6289" expanded="True" code="wh9SOob3i3" thumbCode="BmJhLTmXUc" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Messages" ID="7B85472C-7E15-4546-AE1F-D45B46B364B3" expanded="True" code="NZTPGq8GJG" thumbCode="4blCGydDtx" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Messages  with sent success" ID="C8A80259-5D36-40AC-AE3E-A847F684DB0B" expanded="False" code="1seXk8mkSE" thumbCode="1seXk8mkSE" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Send message" ID="44DD2B6A-654B-458D-A243-0C2216B7DA2A" expanded="True" code="renY2h2czZ" thumbCode="renY2h2czZ" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <page name="Send message unsuccess" ID="8AEF1321-0B4B-4E54-B6FD-FD16690CEBAB" expanded="False" code="IWJudt7Oba" thumbCode="IWJudt7Oba" status="psWhite">
+      <images>
+        <image key="8F282F8B54230C134033098C162584A9.png"/>
+      </images>
+    </page>
+    <module name="Professor" ID="494050E7-CC64-4A71-B0C8-6BC3BB9B83EE" expanded="True" status="psWhite">
+      <page name="Jobs that Prof posted" ID="C2942CE4-2012-4577-ABE9-F3D2D2445CA3" expanded="True" code="U48eHJmOJW" thumbCode="8ClwheW2BD" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Messages Prof" ID="FDCD59A1-552D-4F44-8971-E1B1846B2AFE" expanded="True" code="U9unlOq4uM" thumbCode="U9unlOq4uM" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Pending Applications Professor" ID="D5D55787-2D13-4907-98C8-F8EECC4EB04E" expanded="True" code="gnKGNCo5Ja" thumbCode="gnKGNCo5Ja" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Pending Applications Professor Success" ID="B8239603-F2F9-4D80-B128-0E24DE276861" expanded="True" code="CpAZjRLXmZ" thumbCode="CpAZjRLXmZ" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Pending Applications Professor Project closed" ID="4394B4E4-A0BC-4333-8E5E-F4D7C59F52C7" expanded="True" code="4tf81n6nSB" thumbCode="4tf81n6nSB" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Pending application detailes prof" ID="B6520713-33E2-4EA7-91F6-838ABF6FB5DC" expanded="True" code="PnvDVVTdJb" thumbCode="PnvDVVTdJb" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Pending application student detailes" ID="6B802E6C-C5C7-47ED-968E-E98ED45A6040" expanded="True" code="BDLphhHEdV" thumbCode="BDLphhHEdV" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Jobs prof" ID="E44FCEBE-72DF-45A7-AA38-E8C062A8F3C9" expanded="True" code="sjeQxYDLIe" thumbCode="sjeQxYDLIe" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details editing" ID="BD22555A-DDFF-47BA-A310-F6C8589A1BDF" expanded="True" code="PPyPfQSM4q" thumbCode="PPyPfQSM4q" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details edited unsuccess" ID="9DCAF36B-BF7A-4910-AC67-7186615E7B2F" expanded="True" code="vxo9MbaK7T" thumbCode="vxo9MbaK7T" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details edited success" ID="18E4BA9B-67F5-478D-9A75-C2D8ADFF9D1C" expanded="True" code="jwR6bPnEnJ" thumbCode="jwR6bPnEnJ" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details prof edit" ID="EAB3806D-4514-4B93-A182-02CC885A3150" expanded="True" code="IXYHL5TQb4" thumbCode="IXYHL5TQb4" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details prof extern project" ID="4E4B38CD-A811-44FF-8B5A-1D6FD0488C05" expanded="True" code="7SRvMrZ1Ly" thumbCode="7SRvMrZ1Ly" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Close project detailes" ID="7AD897D4-045A-46BE-958C-0749D2B7AA07" expanded="True" code="ZJLxzW1GGv" thumbCode="ZJLxzW1GGv" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details prof delete" ID="4A745D39-BF54-4437-9D96-36B43A1C0348" expanded="True" code="MV8Bq38C7b" thumbCode="MV8Bq38C7b" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Post Job" ID="35C58E79-A3EC-48B0-906E-FBA0449C7647" expanded="True" code="SZtiLUhJfv" thumbCode="SZtiLUhJfv" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Post Job failed" ID="D9B0527F-2CD1-4EC0-83F1-464607C3C67D" expanded="True" code="ITbi5893i1" thumbCode="ITbi5893i1" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Post Job success" ID="0554E873-42C3-4462-A329-E1866944FCAC" expanded="True" code="Y8duQga8Og" thumbCode="Y8duQga8Og" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page prof" ID="F5016746-DF0E-4F73-B753-CDFC78B57371" expanded="True" code="BVQZUMkN2C" thumbCode="BVQZUMkN2C" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page success prof" ID="4633B60B-5E92-46C1-BFB3-B8445782AC64" expanded="True" code="uIT17CTYox" thumbCode="uIT17CTYox" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page unsuccess prof" ID="AE0443B3-4324-4964-B785-A479E9758797" expanded="True" code="5LVDz9oBUa" thumbCode="5LVDz9oBUa" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="HomeProfessor" ID="FFF568D1-C165-4C94-99DA-E118FF2E05B5" expanded="True" code="XEKDixbkLi" thumbCode="XEKDixbkLi" status="psWhite">
+        <images>
+          <image key="7CB687B958279D4CF32B1222AF63B7CC.png"/>
+          <image key="13B8343EB76AE0D30871CF70C18CA325.png"/>
+          <image key="9640AB6399CE278649CE9B2D283FB14F.png"/>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Report prof" ID="DCF592E5-0A8E-4CBB-9874-E3625649204F" expanded="True" code="4dUoI4mSRV" thumbCode="4dUoI4mSRV" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Report prof unsuccess" ID="72E2434B-54F5-4FD2-82D6-A4D1E059EC05" expanded="True" code="Js7hfcLkpu" thumbCode="Js7hfcLkpu" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Report  prof success" ID="492A8EA5-89F2-408A-9FD0-4489E8F2609B" expanded="True" code="fwn45OpcC9" thumbCode="fwn45OpcC9" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+    </module>
+    <module name="Student" ID="5F1AC33B-5E6A-4B9A-B19A-0E4675B41CAF" expanded="True" status="psWhite">
+      <page name="Report student" ID="42910B3E-B4D2-4309-91AD-8E9FA159A913" expanded="True" code="F8SK77aUmo" thumbCode="F8SK77aUmo" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Report student unsuccess" ID="0BF18C11-B2E4-463E-B801-40DEED7CF256" expanded="True" code="CfdYKdjkJb" thumbCode="CfdYKdjkJb" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Report student success" ID="1F8455E0-67B9-488E-9F02-7140D4DFA065" expanded="True" code="G4oRqg1F84" thumbCode="G4oRqg1F84" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Messages  with sent success student" ID="C2A47BCF-042A-4146-BCBF-C9BA11A2A19E" expanded="True" code="98zB7365F6" thumbCode="98zB7365F6" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Send message student" ID="1F63BDB0-6778-4113-B73E-D8B408F7B571" expanded="True" code="hkrEd3CAw7" thumbCode="hkrEd3CAw7" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Send message unsuccess student" ID="AF648FC2-614C-46C1-AC54-8D70E3F1B0F2" expanded="True" code="6ZfkoBbsc4" thumbCode="6ZfkoBbsc4" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details student" ID="DA225F6E-5F8D-48C3-B93D-16F36BBDC948" expanded="True" code="DtPyUILcv3" thumbCode="DtPyUILcv3" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Apply for a job" ID="88D48DF6-AE2D-46DE-B64C-C08AED68BC10" expanded="True" code="IXQLpSUY3J" thumbCode="IXQLpSUY3J" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Apply for a job success" ID="EEDF1907-B309-4F8C-9D52-74F1DC1F8EDE" expanded="True" code="GDVoTQgEgt" thumbCode="GDVoTQgEgt" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Apply for a job unsuccess" ID="DF97852B-5329-4636-ADB4-57F9F064EEA0" expanded="True" code="hPfmclPWlu" thumbCode="hPfmclPWlu" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Messages student" ID="C7E5D839-5A87-433F-AEB9-A71BDBB58AAC" expanded="True" code="WNbZzCCCgc" thumbCode="WNbZzCCCgc" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Pending Applications Student" ID="65AFF713-3DCC-43D3-B199-2E2E078F1B44" expanded="True" code="ntNZcMgVTx" thumbCode="ntNZcMgVTx" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Pending Applications Student deleted" ID="81A7152E-D008-4775-8676-26AE019683CC" expanded="True" code="igtba8Nk2e" thumbCode="igtba8Nk2e" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Jobs student" ID="A60A2AE9-2A7B-458C-9D70-AD02B5DA8689" expanded="True" code="teMTRPN8vC" thumbCode="teMTRPN8vC" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page student" ID="5F5654D2-D572-4C65-8516-19146CC83E1C" expanded="True" code="Up7rkwqqfv" thumbCode="Up7rkwqqfv" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page success student" ID="37BB8F05-3E0D-4B67-9FE7-F2721EB456A3" expanded="True" code="eNXVO65Iu4" thumbCode="eNXVO65Iu4" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page unsuccess student" ID="F30BB9CC-9CD2-4CC4-A470-0AC7FB62E8F7" expanded="True" code="6mnbTHpib9" thumbCode="6mnbTHpib9" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="HomeStudent" ID="7C9DD72D-BD4C-415F-8D5E-69496EFCDF25" expanded="True" code="ko1t7vh7yS" thumbCode="ko1t7vh7yS" status="psWhite">
+        <images>
+          <image key="7CB687B958279D4CF32B1222AF63B7CC.png"/>
+          <image key="13B8343EB76AE0D30871CF70C18CA325.png"/>
+          <image key="9640AB6399CE278649CE9B2D283FB14F.png"/>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+    </module>
+    <module name="Admin" ID="1BAC3BFC-6835-4A9C-AA8A-714628DFCCB6" expanded="True" status="psWhite">
+      <page name="HomeAdmin" ID="C26D56AA-FCE4-43E6-ACBA-6EC8E34A8DEE" expanded="True" code="JB1axs2qX1" thumbCode="JB1axs2qX1" status="psWhite">
+        <images>
+          <image key="7CB687B958279D4CF32B1222AF63B7CC.png"/>
+          <image key="13B8343EB76AE0D30871CF70C18CA325.png"/>
+          <image key="9640AB6399CE278649CE9B2D283FB14F.png"/>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Jobs admin" ID="FCFED5C4-EECC-4728-B770-468E18B73238" expanded="True" code="cATMy3fkXA" thumbCode="cATMy3fkXA" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Job details prof extern admin" ID="271DC33D-0C33-4434-AE90-9981A4FE4FA7" expanded="True" code="vfDucJDhKK" thumbCode="vfDucJDhKK" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page admin" ID="A2C150D4-0525-40CE-95AB-B04E23534561" expanded="True" code="HHFZTLSoBI" thumbCode="HHFZTLSoBI" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page success admin" ID="A0B52DE2-EC89-470A-953A-DEB365382641" expanded="True" code="kB774IA4Os" thumbCode="OQFwwnpy4y" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Account page unsuccess admin" ID="4489E5AF-A785-458F-B2E4-70E195390C68" expanded="True" code="6YJPmXagzU" thumbCode="6YJPmXagzU" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Add user admin" ID="D0F375E0-5DA5-4BFB-B1A6-DB1BE8A2395E" expanded="True" code="SoezyPG8nm" thumbCode="TXda52qgtI" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Add user admin success" ID="3E522BB4-D880-48EC-9096-176CB4883756" expanded="True" code="BTTP2SCNCb" thumbCode="BTTP2SCNCb" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="Add user admin unsuccess" ID="A47522D1-31DE-43B3-A463-B3063E96E33E" expanded="True" code="tgEnQM3Sa7" thumbCode="tgEnQM3Sa7" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="List Users admin" ID="C2FF8490-DCFA-42E6-AF1E-329A6D2E01C6" expanded="True" code="XbnLPz47L1" thumbCode="XbnLPz47L1" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+      <page name="List Reports admin" ID="81780A7D-C62A-4850-97D9-C17E3D28CFF4" expanded="True" code="ILnkKV8Wg9" thumbCode="ILnkKV8Wg9" status="psWhite">
+        <images>
+          <image key="8F282F8B54230C134033098C162584A9.png"/>
+        </images>
+      </page>
+    </module>
+  </modules>
+  <masters/>
+  <images>
+    <image key="7CB687B958279D4CF32B1222AF63B7CC.png"/>
+    <image key="13B8343EB76AE0D30871CF70C18CA325.png"/>
+    <image key="9640AB6399CE278649CE9B2D283FB14F.png"/>
+    <image key="8F282F8B54230C134033098C162584A9.png"/>
+  </images>
+</project>
